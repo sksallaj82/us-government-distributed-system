@@ -1,4 +1,4 @@
-# us-government-distributed-system
+# US Government Distributed System
 This repo is the core foundation of a distributed system that will eventually replace the US government. The point is to illustrate how we can invoke a system to properly maintain Life, Liberty, and the Pursuit of Happiness. 
 
 
