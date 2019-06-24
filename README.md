@@ -42,6 +42,8 @@ Key focal points:
 
 Unfortunately, feedback from citizens will be denied, as this is a closed system. Influence from citizens must be made in the force of a vote; fortunately these votes are for topics, not people, because there is no one to vote for.
 
+The pattern to implement this system will be similar to how Akka.io is implemented, which basically makes use of the Actor Model.
+
 I will be using Microsoft .NET to be developing this kind of code; unfortunately it's something I have the most experience to start of this project, but if you want to use a different stack, feel free to fork and port out the logic and ideas I'm adding.
 
 
