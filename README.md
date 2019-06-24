@@ -11,6 +11,8 @@ In this project, we will also define the term Pursuit of Happiness as Life and L
 
 This will not be the representation of the fictional skynet, made with flaws in the system. The core foundation is to provide an outlet to accomplish Life, Liberty, and Pursuit of Happiness. To destroy ourselves is a direct violation of this system and cannot happen within the core constraints. The core is an implementation that will remain unchanged, not a feature.
 
+To begin this process, we look to replace key roles in the government, in which the outlook of the country is heavily influenced by. We start with this because I don't believe a leadership role should be compared to that of mythical phoenix, where the role ends and arises anew; because this imposes tons of risks to the country's balance. Some of those risks includes the lack of: experience, knowledge, understanding, beliefs, morals, facts, and the ability to know what is fair. What we need rather is an immortal entity that governs, nurtures, and understands the country better than we do.
+
 If you do a search in google (taken from a quora question), you'll find these positions to be the most powerful in government: 
 * President
 * Vice-President
