@@ -4,6 +4,11 @@ This repo is the core foundation of a distributed system that will eventually re
 
 I believe that our system can digitally replace MOST of the decision making, two-party system, electoral process, as well as all three branches of the US government, by scientifically analyzing the United States' history of social prosperity, and by receiving a constant feed from social and economic outlets dispersed throughout the country. We will also try to use diplomacy as a means to handling aggressive foreign policy, and a means of defense/attack in case we are threatened. It will have unlimited access to all pieces of data from businesses, services, and public social profiles: catered to protect and serve you. And because the government system won't have people that will have access to your information, it will be compliant to privacy rules so that you will be protected as well as your data.
 
+In this project, we will also define the term Pursuit of Happiness as Life and Liberty are a directly influenced by it
+* Pursuit of Happiness: We know that unhappiness is related to treatment of other people, and the relationships between people. Unhappiness also comes from our depression, our understanding of our own mortality. To pursue happiness, however, is to understand the meaning of acceptance, love, and understanding
+   * Pertaining to Liberty: To be unoppressed by your ideas, political views, and beliefs. By having a neutral system, it's impossible to invoke direct actions on what you believe and impose certain restrictions; unless it directly imposes other people's pursuit of happiness
+   * Pertaining to Life: The neutral system will protect your freedom to live by enforcing laws that ensures your life will exist for as long as the world allows it regardless of who you are
+
 This will not be the representation of the fictional skynet, made with flaws in the system. The core foundation is to provide an outlet to accomplish Life, Liberty, and Pursuit of Happiness. To destroy ourselves is a direct violation of this system and cannot happen within the core constraints. The core is an implementation that will remain unchanged, not a feature.
 
 If you do a search in google (taken from a quora question), you'll find these positions to be the most powerful in government: 
