@@ -1,8 +1,0 @@
-C:\Workspace\us government\us-government-distributed-system\UsGov\UsGov\bin\Debug\netcoreapp2.2\UsGov.deps.json
-C:\Workspace\us government\us-government-distributed-system\UsGov\UsGov\bin\Debug\netcoreapp2.2\UsGov.runtimeconfig.json
-C:\Workspace\us government\us-government-distributed-system\UsGov\UsGov\bin\Debug\netcoreapp2.2\UsGov.runtimeconfig.dev.json
-C:\Workspace\us government\us-government-distributed-system\UsGov\UsGov\bin\Debug\netcoreapp2.2\UsGov.dll
-C:\Workspace\us government\us-government-distributed-system\UsGov\UsGov\obj\Debug\netcoreapp2.2\UsGov.fsprojAssemblyReference.cache
-C:\Workspace\us government\us-government-distributed-system\UsGov\UsGov\obj\Debug\netcoreapp2.2\UsGov.fsproj.CoreCompileInputs.cache
-C:\Workspace\us government\us-government-distributed-system\UsGov\UsGov\obj\Debug\netcoreapp2.2\UsGov.AssemblyInfoInputs.cache
-C:\Workspace\us government\us-government-distributed-system\UsGov\UsGov\obj\Debug\netcoreapp2.2\UsGov.AssemblyInfo.fs
