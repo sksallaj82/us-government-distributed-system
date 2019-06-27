@@ -1,11 +1,13 @@
-﻿namespace UsGov.Federal.Executive
+﻿namespace UsGov
 
-module FederalAgencies =
+module Concern =
 
     (*
          Departments of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services (HHS),
-         Homeland Security, Housing and Urban Development (HUD, Interior, Justice, Labor, State, Transportation,
+         Homeland Security, Housing and Urban Development (HUD), Interior, Justice, Labor, State, Transportation,
          Treasury and Veteran's Affairs (VA)
+
+         All actors of the government will be concerning themselves with these topics
     
     *)
 
@@ -32,3 +34,4 @@ module FederalAgencies =
         | Transportation of agency
         | Treasury of agency
         | VA of agency
+        | Wellness of agency

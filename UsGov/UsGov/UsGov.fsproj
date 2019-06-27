@@ -6,16 +6,24 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="MainStage.fs" />
+    <Compile Include="Citizen.fs" />
     <Compile Include="Services\Wellness.fs" />
-    <Compile Include="State\Governor.fs" />
-    <Compile Include="Federal\Judicial\SC.fs" />
+    <Compile Include="Federal\Judicial\Notifier.fs" />
+    <Compile Include="Federal\Judicial\Monitor.fs" />
+    <Compile Include="Federal\Executive\Anazlyer.fs" />
+    <Compile Include="Federal\Executive\Watchers.fs" />
+    <Compile Include="Federal\Executive\Decider.fs" />
     <Compile Include="Federal\Executive\FederalAgencies.fs" />
-    <Compile Include="Federal\Executive\President.fs" />
-    <Compile Include="Federal\Executive\VicePresident.fs" />
-    <Compile Include="Federal\Legislative\HOR.fs" />
-    <Compile Include="Federal\Legislative\Senate.fs" />
+    <Compile Include="Federal\Executive\ExecutiveStage.fs" />
+    <Content Include="Federal\Legislative\ReadMe.txt" />
+    <Compile Include="Federal\Legislative\Districtor.fs" />
+    <Compile Include="Federal\Legislative\Representor.fs" />
+    <Compile Include="Federal\Legislative\Senator.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
+
+  <ItemGroup />
 
   <ItemGroup>
     <PackageReference Include="Akka.FSharp" Version="1.3.13" />

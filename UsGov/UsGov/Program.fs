@@ -1,9 +1,6 @@
 ﻿// Learn more about F# at http://fsharp.org
-namespace UsGov
-
 
 open System
-
 
 let exitCode = 0
 
